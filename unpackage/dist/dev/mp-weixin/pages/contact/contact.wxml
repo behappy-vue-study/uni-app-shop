@@ -1,0 +1,1 @@
+<view><image class="img" src="http://www.itcast.cn/2018czydz/images/gywmban.jpg"></image><text data-event-opts="{{[['tap',[['callPhone',['$event']]]]]}}" class="phone" bindtap="__e">联系我们: 18404311614</text><map class="map" longitude="121.530961" latitude="38.863245" scale="30" markers="{{markers}}"></map></view>

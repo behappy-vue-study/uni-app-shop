@@ -1,0 +1,1 @@
+<view class="goods"><goods-list vue-id="73adca00-1" goods="{{goods}}" data-event-opts="{{[['^itemClick',[['goGoodsDetail']]]]}}" bind:itemClick="__e" bind:__l="__l"></goods-list><block wx:if="{{flag}}"><text style="margin:10rpx 60px;padding:5rpx;background:#eee;">-----没有再多的商品了-----</text></block></view>

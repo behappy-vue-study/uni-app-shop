@@ -1,0 +1,40 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/card/card",
+    "pages/member/member",
+    "pages/news/news",
+    "pages/shop/shop",
+    "pages/contact/contact",
+    "pages/pics/pics",
+    "pages/videos/videos",
+    "pages/news_item/news_item",
+    "pages/goods_item/goods_item"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "小五的商城",
+    "navigationBarBackgroundColor": "#dc0000",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#000000",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/icon/home.png",
+        "selectedIconPath": "static/icon/home-active.png"
+      },
+      {
+        "pagePath": "pages/news/news",
+        "text": "资讯",
+        "iconPath": "static/icon/news.png",
+        "selectedIconPath": "static/icon/news-active.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

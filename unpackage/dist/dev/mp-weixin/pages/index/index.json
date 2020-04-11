@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "小五的商城",
+  "usingComponents": {
+    "goods-list": "/components/goods-list/goos_list"
+  }
+}
